@@ -327,11 +327,11 @@ Tuesday, 5 April 2022
 -
 Finished building a Twitter clone using Tailwind, Typescript and Next.js
 Libraries involved:
-# Moment
-## hero-icons
+### Moment
+### hero-icons
 ### Emoji-Mart
-#### Recoil
-##### Firebase
-###### Headless-UI
+### Recoil
+### Firebase
+### Headless-UI
 
 The finished website is available [here](https://twitter-lamda.vercel.app/)
