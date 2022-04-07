@@ -304,3 +304,34 @@ Tuesday, 15 March 2022
 Created a simple bookstore app using Prisma and PlanetScale which allows you to type in details about a book and have the information rendered.
 
 The source code is available on the projects/prisma/bookstore folder.
+
+------------------------------------------------------------------------------------------
+
+Tuesday, 22 March 2022
+-
+Started to build a Twitter clone using Tailwind, Typescript and Next.js
+
+The source code so far can be found in the projects/firebase/twitter folder.
+
+-------------------------------------------------------------------------------------------
+
+Tuesday, 29 March 2022
+-
+Continued to build a Twitter clone using Tailwind, Typescript and Next.js
+
+The source code so far can be found in the projects/firebase/twitter folder.
+
+-----------------------------------------------------------------------------------------
+
+Tuesday, 5 April 2022 
+-
+Finished building a Twitter clone using Tailwind, Typescript and Next.js
+Libraries involved:
+# Moment
+## hero-icons
+### Emoji-Mart
+#### Recoil
+##### Firebase
+###### Headless-UI
+
+The finished website is available [here](https://twitter-lamda.vercel.app/)
