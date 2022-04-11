@@ -18,4 +18,5 @@ const firebaseConfig = {
 //eslint-disable-next-line
 const app = initializeApp(firebaseConfig);
 
-export default getFirestore();
+const db = getFirestore(app);
+export default db;
