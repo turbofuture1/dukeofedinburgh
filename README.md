@@ -67,7 +67,7 @@ database (after you refresh the messages are still there)
 
 This project was a lot of fun to build!
 
-This project is available [here](https://facebook-messenger-8f1b3.firebaseapp.com/)
+This project is available [here](https://facebook-messenger.vercel.app/)
 
 [Link to the Youtube video](https://www.youtube.com/watch?v=KB7JEnfc7Dc)
 
