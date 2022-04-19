@@ -335,3 +335,11 @@ Libraries involved:
 - Headless-UI
 
 The finished website is available [here](https://twitter-lamda.vercel.app/)
+
+--------------------------------------------------------------------------------------------------
+
+Tuesday, 12 April 2022
+-
+Started to build a blog using Tailwind, Typescript and Next.js
+
+![Blog Image](https://imgur.com/a/Y0N9UmV)
