@@ -342,4 +342,4 @@ Tuesday, 12 April 2022
 -
 Started to build a blog using Tailwind, Typescript and Next.js
 
-![Blog Image](https://ibb.co/L66MgVK)
+![blog](https://user-images.githubusercontent.com/61887852/164075519-efc11bb3-fac0-4b60-b578-35b7fd5c87ad.PNG)
