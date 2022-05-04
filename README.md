@@ -352,3 +352,12 @@ Continued to build a blog using Tailwind, Typescript and Next.js
 
 ![blog0](https://user-images.githubusercontent.com/61887852/164077281-76b40831-3f1c-4d49-9306-90d12fadda1a.PNG)
 
+---------------------------------------------------------------------------------------------------
+
+Tuesday, 26 April 2022
+-
+Continued to build a blog using Tailwind, Typescript and Next.js
+
+![blog1](https://user-images.githubusercontent.com/61887852/166821390-e34c59bc-26ea-4395-ab6d-71a58b19d2d5.PNG)
+
+
